@@ -23,11 +23,11 @@ Build practical skills in MySQL and Oracle.
 
 Provide a ready-to-run database codebase for learning and reference.
 
-Demonstrate step-by-step progression from beginner to advanced.
+Demonstrate step-by-step progression from beginner to advanced.<br>
 📄 License
 This project is licensed under the MIT License - you are free to use and adapt it for your learning or projects.
 
-
+<br> <br>
 Author: Leta Kasahun
 LinkedIn: linkedin.com/in/leta-kasahun
 GitHub: github.com/Leta-Kasahun
