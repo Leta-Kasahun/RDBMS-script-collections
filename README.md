@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Leta-Kasahun/assets/main/sql-mysql-oracle-banner.png" alt="MySQL and Oracle SQL Commands - From Basic to Advanced" width="100%"/>
 </p>
 
-<h1 align="center">MySQL & Oracle SQL Commands 📊 | Beginner to Advanced</h1>
+<h1 align="center">MySQL & Oracle SQL Commands |</h1>
 
 <p align="center">
   💡 Master the art of SQL using both <strong>MySQL</strong> and <strong>Oracle</strong> databases!<br>
